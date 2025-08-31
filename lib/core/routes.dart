@@ -1,10 +1,11 @@
-import 'package:ecotech/screens/escanear_screen.dart';
 import 'package:flutter/material.dart';
+
 import '../screens/login_screen.dart';
-import '../screens/coleta_screen.dart';
-import '../screens/pontos_screen.dart';
 import '../screens/cadastro_screen.dart';
 import '../screens/home_screen.dart';
+import '../screens/escanear_screen.dart';
+import '../screens/coleta_screen.dart';
+import '../screens/pontos_screen.dart';
 import '../screens/recompensas_screen.dart';
 import '../screens/perfil_screen.dart';
 import '../screens/impacto_screen.dart';

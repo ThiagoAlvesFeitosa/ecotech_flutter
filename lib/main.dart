@@ -16,6 +16,7 @@ class EcoTechApp extends StatelessWidget {
       title: 'EcoTech',
       theme: AppTheme.lightTheme, // aplica o tema global
       debugShowCheckedModeBanner: false,
+      // Começamos no login. Depois dá pra trocar por uma splash que checa token.
       initialRoute: AppRoutes.login, // tela inicial do app
       onGenerateRoute: AppRoutes.generateRoute, // rotas
     );

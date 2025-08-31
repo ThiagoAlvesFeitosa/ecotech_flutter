@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Este arquivo libera HTTP (cleartext) para 10.0.2.2 e localhost em desenvolvimento.
+     Sem isso, o Android pode bloquear suas requisições http:// (não-https). -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain>10.0.2.2</domain>   <!-- emulador Android acessando sua máquina -->
+        <domain>localhost</domain>  <!-- útil em desktop/iOS simulador -->
+    </domain-config>
+</network-security-config>
