@@ -1,7 +1,7 @@
 
 
 ````markdown
-# EcoTech - Mobile (Flutter)
+# Enterprise Challenge 3 - EcoTech - Mobile (Flutter)
 
 Aplicativo mobile desenvolvido em **Flutter** como parte do projeto interdisciplinar da FIAP (**Enterprise Challenge 2025**).  
 O EcoTech tem como objetivo incentivar o **descarte correto de lixo eletrônico (e-lixo)**, promovendo **consciência ambiental**, **recompensas ao usuário** e **engajamento social**, alinhado aos princípios da **Sociedade 5.0**.
